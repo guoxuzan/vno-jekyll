@@ -1,0 +1,51 @@
+---
+layout: post
+title: iOS像素分辨率
+---
+
+|iPhone机型|像素分辨率|
+|-||
+|iPhone||
+|iPhone 3G||
+|iPhone 3GS|320*480|
+|iPhone 4||
+|iPhone 4S|640*960|
+|iPhone 5||
+|iPhone 5s||
+|iPhone 5c||
+|iPhone SE|640*1136|
+|iPhone 6||
+|iPhone 6s||
+|iPhone 7|750*1334|
+|iPhone 6 Plus||
+|iPhone 6s Plus||
+|iPhone 7 Plus|1242*2208|
+
+|iPod touch机型|像素分辨率|
+|-||
+|iPod touch||
+|iPod touch 2||
+|iPod touch 3|320*480|
+|iPod touch 4|640*960|
+|iPod touch 5||
+|iPod touch 6|640*1136|
+
+|iPad机型|像素分辨率|
+|-||
+|iPad||
+|iPad 2|768*1024|
+|iPad 3||
+|iPad 4|1536*2048|
+|iPad mini|768*1024|
+|iPad mini 2||
+|iPad mini 3||
+|iPad mini 4|1536*2048|
+|iPad Air||
+|iPad Air 2|1536*2048|
+|12.9 英寸 iPad Pro|2048*2732|
+|9.7 英寸 iPad Pro|1536*2048|
+
+|Apple Watch机型|像素分辨率|
+|-||
+|Apple Watch 38mm|272*340|
+|Apple Watch 42mm|312*390|
