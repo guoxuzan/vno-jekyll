@@ -33,14 +33,13 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
+    #disqus: vno-jekyll
+    duoshuo : guoxuzan
     
 # Social
 social:
     weibo:   guoxuzan
     github:  guoxuzan
-    twitter: guoxuzan
     mail:    guoxuzan@gmail.com
 
 # Google Analytics
