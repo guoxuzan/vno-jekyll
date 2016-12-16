@@ -6,7 +6,8 @@ subtitle: 极简主义者
 #description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://guoxuzan.com/">@guoxuzan</a>
 
-url: "http://vno.onevcat.com"
+url: "http://guoxuzan.com"
+#url: "http://127.0.0.1:4000"
 
 permalink: /:year/:month/:title/
 
