@@ -36,7 +36,8 @@ title: iOS像素分辨率
 |iPad||
 |iPad 2|768*1024|
 |iPad 3||
-|iPad 4|1536*2048|
+|iPad 4||
+|iPad 5|1536*2048|
 |iPad mini|768*1024|
 |iPad mini 2||
 |iPad mini 3||
